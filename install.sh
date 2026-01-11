@@ -341,8 +341,8 @@ make_gtkrc() {
         background_alt='#282828'
       else
         background_light='#FFFFFF'
-        background_dark='#2C2C2C'
-        background_alt='#464646'
+        background_dark='#2F2E2D'
+        background_alt='#494847'
       fi
     fi
   fi

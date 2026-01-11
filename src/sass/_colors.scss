@@ -117,10 +117,10 @@ $theme_blue_color:    if($variant == 'light', #3684dd, #5294e2);
         @if ($type == 'g') { @return #1F1F1F; }
         @if ($type == 'h') { @return #292929; }
       } @else {
-        @if ($type == 'e') { @return #212121; }
-        @if ($type == 'f') { @return #242424; }
-        @if ($type == 'g') { @return #2C2C2C; }
-        @if ($type == 'h') { @return #3C3C3C; }
+        @if ($type == 'e') { @return #242322; }
+        @if ($type == 'f') { @return #272625; }
+        @if ($type == 'g') { @return #2F2E2D; }
+        @if ($type == 'h') { @return #3F3E3D; }
       }
     }
   }
